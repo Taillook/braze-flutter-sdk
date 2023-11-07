@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.dependency 'BrazeKit', '~> 5.12.0'
   s.dependency 'BrazeLocation', '~> 5.12.0'
   s.dependency 'BrazeUI', '~> 5.12.0'
+  s.dependency 'BrazeNotificationService', '~> 5.12.0'
 
   s.ios.deployment_target = '11.0'
 end
